@@ -7,3 +7,5 @@ This repository, as the name says, contains experiments or any other stuff that 
 
 - **Lisp-like interpreter**:
 A parser & interpreter for a lisp-like language. Still needs to support some basic operations, for example stuff like basic math operators('-', '/').
+- **In Rainbows Album Art generator**:
+A simple script to generate images in the style of Radiohead's "In Rainbows" album cover.
