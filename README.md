@@ -11,3 +11,5 @@ A parser & interpreter for a lisp-like language. Still needs to support some bas
 A simple script to generate images in the style of Radiohead's "In Rainbows" album cover.
 - **Image to ascii converter**:
 A simple script to convert an image to an ASCII text version
+- **Conway's Game of Life**:
+A simple implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) in C
