@@ -13,3 +13,5 @@ A simple script to generate images in the style of Radiohead's "In Rainbows" alb
 A simple script to convert an image to an ASCII text version
 - **Conway's Game of Life**:
 A simple implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) in C
+- **Eliza, the computer therapist**
+A clone of [ELIZA](https://en.wikipedia.org/wiki/ELIZA), an old chatbot that simulated a therapist. Makes for pretty realistic conversations, until you realize she is repeating back what you said
